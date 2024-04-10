@@ -14,4 +14,7 @@ public class WeatherForecast
 
     //Test 3 - after tag v1.0.1
     //test 4
+    //test 5
+    //test 6
+    //test 7
 }
